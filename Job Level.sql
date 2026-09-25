@@ -1,0 +1,2 @@
+SELECT DISTINCT job_level
+FROM workforce_diversity;

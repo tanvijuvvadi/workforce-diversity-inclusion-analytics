@@ -1,0 +1,2 @@
+SELECT DISTINCT employment_type
+FROM workforce_diversity;
